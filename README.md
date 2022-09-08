@@ -1,6 +1,6 @@
 # Clear Bing History
 
-[![Clear Bing History](green.png)](https://github.com/compuhoy/clear.bing.history)
+[![Clear Bing History](green.png)](https://icncomputer.com/clear-bing-history/)
 
 Bing stores and uses your search history to personalize your results. And clearing the history in your web browser doesn’t touch the history stored on Bing itself, which likely comes from multiple devices you use. You can clear that history, though.
 
